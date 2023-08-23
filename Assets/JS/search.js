@@ -1,4 +1,5 @@
 var APIkey = "86707fd4df8f2cf8af0a8d6009a2bee9";
+
 var cityNameEl = $('#cityName');
 var searchBtnEl = $('#searchBtn');
 var weatherEl = $('#weatherContainer');
@@ -106,3 +107,4 @@ var formSubmitHandler = function (event) {
 
 // WHEN I click on a city in the search history
 // THEN I am again presented with current and future conditions for that city
+
